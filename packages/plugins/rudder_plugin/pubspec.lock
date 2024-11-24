@@ -350,21 +350,21 @@ packages:
       path: "../rudder_plugin_android"
       relative: true
     source: path
-    version: "3.0.0"
+    version: "3.0.1"
   rudder_plugin_ios:
     dependency: "direct main"
     description:
       path: "../rudder_plugin_ios"
       relative: true
     source: path
-    version: "3.0.0"
+    version: "3.0.1"
   rudder_plugin_web:
     dependency: "direct main"
     description:
       path: "../rudder_plugin_web"
       relative: true
     source: path
-    version: "3.0.0"
+    version: "3.0.1"
   rudder_sdk_flutter_platform_interface:
     dependency: "direct main"
     description:
